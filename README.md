@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: `Security operations`
 - 💬 Ask me topics about: `Cybersecurity `
 - 📫 How to reach me: <a href="https://twitter.com/peterChain7" target="_blank"> 
-    <img alt="Php" src=" https://img.shields.io/badge/TWITTER-%23007396.svg?logo=TWITTER&logoColor=blue">
+    <img alt="On Twitter" src="https://img.shields.io/badge/TWITTER-%23007396.svg?logo=TWITTER&logoColor=blue">
   </a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: Learning
