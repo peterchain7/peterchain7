@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: `Deffensive security`
 - 👯 I’m looking to collaborate on: `Security operations`
 - 💬 Ask me topics about: `Cybersecurity `
-- 📫 How to reach me: [twitter](https://twitter.com/peterChain7)
+- 📫 How to reach me: [On Twitter](https://twitter.com/peterChain7)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: Learning
  -->
