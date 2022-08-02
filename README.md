@@ -34,7 +34,6 @@
   </a>
 </p>
 
-<br>
 
 ### 👉 Frontend Languages 
 <p align="left"> 
@@ -55,7 +54,6 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
-<br>
 
 ### 👉 Software & Tools
 <p>
@@ -68,7 +66,7 @@
     <img src="https://img.shields.io/badge/security-tools-%23007396.svg?logo=security%20tools&logoColor=orange">
     </a>
 </p>
-<br>
+
 
 ### 👉 Databases 
 <p align="left">
