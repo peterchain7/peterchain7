@@ -21,7 +21,7 @@
 <p align="left"> 
   &emsp; 
  
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.php.net" target="_blank"> 
     <img alt="Php" src="https://img.shields.io/badge/php-%23007396.svg?logo=php&logoColor=blue">
   </a>
   
